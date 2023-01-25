@@ -1,6 +1,6 @@
-# first_flutter
+# BMI Calculator Flutter Project
 
-A new Flutter project.
+Body mass index (BMI) is a measure of body fat based on height and weight that applies to adult men and women.
 
 ## Getting Started
 
